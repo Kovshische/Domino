@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Domino</string>
+
+    <string name="we"> \u0020 We \u0020</string>
+    <string name="they">They</string>
+    <string name="win">win</string>
+    <string name="newGame">New game</string>
+
+    <string name="settings_title">Domino Settings</string>
+    <string name="settings_menu_item">Settings</string>
+
+    <!-- Strings for 1st team name -->
+    <string name="settings_1st_team_label">Name 1st team</string>
+    <string name="settings_1st_team_key" translatable="false">first_team</string>
+    <string name="sedtings_1st_team_default" translatable="false">We</string>
+
+
+    <!-- Strings for 1st team name -->
+    <string name="settings_2nd_team_label">Name 2nd team</string>
+    <string name="settings_2nd_team_key" translatable="false">second_team</string>
+    <string name="settings_2nd_team_default" translatable="false">They</string>
+
+</resources>

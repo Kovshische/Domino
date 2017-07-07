@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Домино</string>
+    <string name="newGame">Новая игра</string>
+    <string name="they">Они</string>
+    <string name="we">Мы</string>
+    <string name="win">Победа</string>
+</resources>
